@@ -1,0 +1,4 @@
+name: personal-social-memory-agent
+version: "1.0"
+tasks: [fact_extraction, thread_summary, multi_hop_qa]
+reward_range: [0.0, 1.0]
