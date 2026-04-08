@@ -1,13 +1,4 @@
----
-title: Personal Social Memory Agent
-emoji: 🧠
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-sdk_version: "1.0"
-app_file: main.py
-pinned: false
----
+
 
 # Personal Social Memory Agent
 
